@@ -1,5 +1,5 @@
 # H8-Phase2-Client-3-Vue
-# Hacktiv8 Phase 2 Vue Client 2 Repository
+# Hacktiv8 Phase 2 Vue Client 3 Repository
 
 Welcome to my Hacktiv8 Phase 2 Vue frontend repository! This repository contains the client-side code for the projects and tasks completed during the Hacktiv8 bootcamp's Phase 2 Vue module.
 
